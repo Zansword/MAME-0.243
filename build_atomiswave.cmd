@@ -1,0 +1,1 @@
+make PTR64=1 SUBTARGET=atomiswave SOURCES=src/mame/drivers/dc_atomiswave.cpp,src/mame/drivers/naomi.cpp REGENIE=1 -j5
